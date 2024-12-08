@@ -1,23 +1,19 @@
 .title {
   text-align: center;
   width: 250px;
-  margin: 15px auto;
+  margin: 15px auto 25px;
   background-color: rgb(58, 158, 252);
+  border: solid black 5px;
 }
 .recipe {
   width: fit-content;
   margin: 10px auto;
   padding: 8px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 10px;
-  display: block;
+  font-size: 25px;
+ display: inline-block;
+ background-color: rgb(253, 139, 139);
+ border: solid black 3px;
+ color: black;
 }
-.bibimbap {
-  background-color: red;
-}
-.ziti {
-  background-color: green;
-}
-.bang-bang {
-  background-color: yellow;
-}
+
